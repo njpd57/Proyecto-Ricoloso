@@ -1,4 +1,6 @@
-# WEA
+# 🚀 El nico se la come.
 
-Niko kl weno pa la tula
-vo tambien
+### 1. Pico pal que lee.
+```bash
+chupa pico
+```
